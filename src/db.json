@@ -1,0 +1,17 @@
+{ "transactions" : [
+    {
+      "date":"02/20/2020",  
+      "desc":"Misc.Expenses", 
+      "credit": 0,
+      "debit": 3000, 
+      "running": 1215
+    }, 
+    {
+        "date":"02/21/2020",  
+        "desc":"Misc. Expenses", 
+        "credit": 3000,
+        "debit": 0, 
+        "running": 1215
+    }
+  
+]}
